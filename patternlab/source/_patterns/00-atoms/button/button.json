@@ -1,0 +1,7 @@
+{
+    "button":{
+        "class": "btn--primary",
+        "type": "submit",
+        "text": "What it says on the button"
+    }
+}

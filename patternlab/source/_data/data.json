@@ -1,0 +1,25 @@
+{
+    "title": "ez-company",
+
+    "button":{
+        "class": "btn--primary",
+        "type": "submit",
+        "text": "What it says on the button"
+    },
+    "buttons": [
+        {
+            "button":{
+                "class": "btn--primary",
+                "type": "submit",
+                "text": "What it says on the button 1"
+            }
+        },
+        {
+            "button":{
+                "class": "btn--primary",
+                "type": "submit",
+                "text": "What it says on the button two"
+            }
+        }
+    ]
+}

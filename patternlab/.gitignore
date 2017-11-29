@@ -1,0 +1,6 @@
+.idea
+export/*
+public/*
+vendor/*
+source/styleguide/*
+config/*.json
